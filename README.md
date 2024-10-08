@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kevin-a32
-- you can called me Kevin-D
+- you can called me Kevin
 He/him
-- ⚡ Fun fact: ...draw and sports yep-)
 
 <!---
 Kevin-a32/Kevin-a32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
